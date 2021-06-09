@@ -13,4 +13,3 @@ C:\Users\20001900\Desktop\CsharpAssessment\CSharpOOP\ProblemThree_CompleteSoluti
 C:\Users\20001900\Desktop\CsharpAssessment\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csproj.CoreCompileInputs.cache
 C:\Users\20001900\Desktop\CsharpAssessment\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.dll
 C:\Users\20001900\Desktop\CsharpAssessment\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.pdb
-C:\Users\20001900\Desktop\CsharpAssessment\CSharpOOP\ProblemThree_CompleteSolution_BL\obj\Debug\ProblemThree_CompleteSolution_BL.csproj.AssemblyReference.cache
