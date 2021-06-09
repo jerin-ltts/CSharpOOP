@@ -12,11 +12,10 @@ namespace ProblemThree_CompleteSolution_BL
         public string ItemName { get; set; }
         public Dictionary<int, double> ItemPrice { get; set; } 
 
-        public GourmetShop(int iCode, string iName, Dictionary<int, double> iPrice)
+        public GourmetShop(int iCode, string iName)
         {
             ItemCode = iCode;
             ItemName = iName;
-            ItemPrice = iPrice;
         }
 
         public abstract double PayPerPiece(int quantity);

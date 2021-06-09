@@ -10,7 +10,7 @@ namespace ProblemThree_CompleteSolution_BL
     {
         public double TotalBillValue { get; set; }
 
-        public GourmetOrganicShop(int iCode, string iName, Dictionary<int, double> iPrice)
+        public GourmetOrganicShop(int iCode, string iName, Dictionary<int, double> iPrice):base(iCode, iName)
         {
             ItemCode = iCode;
             ItemName = iName;
