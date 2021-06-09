@@ -12,20 +12,20 @@ namespace ProblemThree_CompleteSolution_BL
 
         public GourmetOrganicShop(int iCode, string iName, Dictionary<int, double> iPrice):base(iCode, iName)
         {
-            ItemCode = iCode;
-            ItemName = iName;
             ItemPrice = iPrice;
         }
 
         public override double PayPerPiece(int quantity)
         {
-            TotalBillValue+=TotalBillValue;
-            return quantity * ItemPrice[ItemCode];
+            double price;
+            price = quantity * ItemPrice[ItemCode];
+            return price;
         }
         public override double PayPerWeight(int weight)
         {
-            TotalBillValue+=TotalBillValue;
-            return weight * ItemPrice[ItemCode];
+            double price;
+            price = weight * ItemPrice[ItemCode];
+            return price;
         }
         public double TaxOnTotalBill()
         {
